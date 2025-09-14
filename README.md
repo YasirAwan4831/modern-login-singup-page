@@ -43,31 +43,49 @@ H𝑒r𝑒’𝑠 𝑤h𝑎t tℎe p𝑟o𝑗e𝑐t l𝑜o𝑘s l𝑖k𝑒 𝑖n
 
 # 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
 modern-login-page/
+
 │
 ├── index.html              # Main HTML file (Login + Signup + Forgot Password)
+
 │
 ├── css/
+
     └── style.css           # All styles, glassmorphism, animations
+    
 │
 ├── js/
+
      └── script.js           # Form switching and dummy validation logic
+     
 │
 ├── image/
+
         ├── bgimg.png           # Background image
+        
         ├── favicon.png         # Favicon icon
+        
         └── Project Overview.jpg# Screenshot / Preview image
+        
 │
+
 └── README.md               # You're reading it!
+
 
 
  # 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 & 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝
 
-𝑷𝙪𝒓𝙥𝒐𝙨𝒆                 𝙏𝒆𝙘𝒉𝙣𝒐𝙡𝒐𝙜𝒚
-**𝐻𝘛𝑀𝘓5**               Page structure
-**CSS3**                 Styling, layout, glassmorphism
-**JavaScript**           Form toggle, validation
-**VS Code**              Development Environment
-**Git & GitHub**         Version Control and Hosting
+𝑷𝙪𝒓𝙥𝒐𝙨𝒆                  |       𝙏𝒆𝙘𝒉𝙣𝒐𝙡𝒐𝙜𝒚
+
+**𝐻𝘛𝑀𝘓5**               |       Page structure
+
+**CSS3**                 |       Styling, layout, glassmorphism
+
+**JavaScript**           |      Form toggle, validation
+
+**VS Code**              |      Development Environment
+
+**Git & GitHub**         |      Version Control and Hosting
+
 
 
 # 𝐋𝐢𝐜𝐞𝐧𝐬𝐞 
@@ -76,9 +94,13 @@ This Projecr is Licensed under bthe MIT License, See rhe [] file for details.
 
 # 👨‍💻 𝐀𝐮𝐭𝐡𝐨𝐫 
 𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅 𝒀𝒂𝒔𝒊𝒓  
+
 **Email**  my3154831409@gmail.com
+
 **Linkedin** https://www.linkedin.com/in/yasirawan4831/
+
 **GitHub** https://github.com/YasirAwan4831/
+
 **X**   https://x.com/YasirAwan4831
 
 
